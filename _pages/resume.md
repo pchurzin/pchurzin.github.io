@@ -4,12 +4,7 @@ permalink: /
 classes: wide
 ---
 
-Чурзин Павел  
-г. Подольск, Московская обл.  
-моб.: 8-995-501-85-81  
-e-mail: [pchurzin@yandex.ru](mailto:pchurzin@yandex.ru)
-
-# Java разработчик
+# Java разработчик [pdf](/assets/files/pavel_churzin_javadev.pdf "скачать pdf") [rtf](/assets/files/pavel_churzin_javadev.rtf "скачать rtf")
 {: .text-center}
 
 ## О себе
@@ -65,9 +60,12 @@ e-mail: [pchurzin@yandex.ru](mailto:pchurzin@yandex.ru)
 * устанавливал, настраивал ОС и ПО, обслуживал компьютерную технику, оказывал помощь пользователям в эксплуатации вычислительной техники
 
 ## Образование
-* **Masterjava** – практический курс разработки многомодульного проекта, 2019 г.
-* **Topjava** – практический курс разработки Spring/JPA приложения, 2018 г.
-* **JavaRush** – онлайн-курс программирования на Java, 2018 г.
+* **Masterjava** – практический курс разработки многомодульного проекта, 2019 г.  
+[сертификат](http://javaops.ru/certificate/masterjava?email=pchurzin@yandex.ru)
+* **Topjava** – практический курс разработки Spring/JPA приложения, 2018 г.  
+[сертификат](http://javaops.ru/certificate/topjava?email=pchurzin@yandex.ru)
+* **JavaRush** – онлайн-курс программирования на Java, 2018 г.  
+[профиль](https://javarush.ru/users/1368282)
 * **Военно-космическая академия имени А.Ф. Можайского**, 1998 – 2003
 специальность: «Организация и технология защиты информации,
 специализация: «Разработка специального программного обеспечения».
