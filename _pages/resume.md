@@ -9,9 +9,10 @@ classes: wide
 моб.: 8-995-501-85-81  
 e-mail: [pchurzin@yandex.ru](mailto:pchurzin@yandex.ru)
 
-# Java разработчик
+# Java разработчик {: .text-center}
 
 ## О себе
+
 * имею более двух лет опыта программирования на Java
 * обладаю опытом работы со Spring Framework
 * имею опыт работы с технологиями Java EE
@@ -20,6 +21,7 @@ e-mail: [pchurzin@yandex.ru](mailto:pchurzin@yandex.ru)
 * понимаю принципы ООП
 
 ## Квалификация
+
 * Языки программирования: Java, SQL, XML/XSD/XSLT, JavaScript, HTML, CSS, PHP, VBA, Python, C/C++
 * Фреймворки: Spring (MVC, Data, JDBC, Security)
 * Технологии: Servlet, JSP/JSTL, JAX-WS, JAX-RS, JMS, JAXB, StAX, JPA, JDBC, SOAP
@@ -31,17 +33,23 @@ e-mail: [pchurzin@yandex.ru](mailto:pchurzin@yandex.ru)
 * Иностранные языки: английский (intermediate)
 
 ## Опыт
+
 ### Java Online Projects, 2019 г.
+
 Участвовал в разработке многомодульного проекта, состоящего из 3 приложений:
 * приложение импорта данных из XML (JAXB, StAX, Jdbi)
 * многопоточного почтового веб-сервиса (Apache Commons Email)
 * веб-приложения отправки почты (JAX-WS, JAX-RS, JMS)
+
 ### Java Online Projects, 2018 г.
+
 Участвовал в разработке Spring/JPA приложения c авторизацией и правами доступа на основе ролей (Maven, Spring MVC, Spring Security, REST (Jackson), Java 8 Streams):
 * реализация работы с базами данных PostgreSQL и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring Data JPA
 * реализация и тестирование REST и AJAX контроллеров
 * реализация клиента на Bootstrap, jQuery
-### ВС РФ, 12.2009 – 06.2019, инженер, старший инженер отдела технической поддержки и сопровождения.
+
+### ВС РФ, 12.2009 – 06.2019, инженер, старший инженер отдела технической поддержки и сопровождения
+
 * разработал базу данных учета эксплуатации технических и программных средств (SQL, Microsoft Access, PHP, Apache HTTP Server, Microsoft IIS, MySQL)
 * разработал систему сбора данных по эксплуатации технических и программных средств (HTML, CSS, JavaScript, VBA, SQL, Microsoft Access, ActiveX)
 * разработал программу контроля работоспособности программных средств 
@@ -51,7 +59,8 @@ e-mail: [pchurzin@yandex.ru](mailto:pchurzin@yandex.ru)
 * усовершенствовал пользовательский интерфейс для доступа к ранее сформированным электронным документам (HTML, JavaScript, ActiveX, Windows Scripting Host)
 * автоматизировал рутинные операции (отправка файлов, формирование регулярных документов) (Jscript, VBA, ActiveX, Windows Scripting Host)
 
-### ВС РФ, 07.2003 – 12.2009, системный администратор.
+### ВС РФ, 07.2003 – 12.2009, системный администратор
+
 * устанавливал, настраивал ОС и ПО, обслуживал компьютерную технику, оказывал помощь пользователям в эксплуатации вычислительной техники
 
 ## Образование
