@@ -1,6 +1,7 @@
 ---
 title: "Резюме"
 permalink: /
+classes: wide
 ---
 
 Чурзин Павел  
