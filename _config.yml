@@ -65,7 +65,7 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : ""
   links:
-    - label: "Website"
+    - label: "Сайт"
       icon: "fas fa-fw fa-link"
       url: "https://pchurzin.ru"
 #    - label: "Twitter"
