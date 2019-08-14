@@ -9,7 +9,8 @@ classes: wide
 моб.: 8-995-501-85-81  
 e-mail: [pchurzin@yandex.ru](mailto:pchurzin@yandex.ru)
 
-# Java разработчик {: .text-center}
+# Java разработчик
+{: .text-center}
 
 ## О себе
 
