@@ -14,23 +14,36 @@ classes: wide
 * имею более двух лет опыта программирования на Java
 * обладаю опытом работы со Spring Framework
 * имею опыт работы с технологиями Java EE
-* понимаю принципы работы и построения веб-приложений
-* знаю базовые алгоритмы, структуры данных
-* понимаю принципы ООП
+* понимаю принципы работы и построения современных приложений
+* знаю и применяю базовые алгоритмы, структуры данных
+* понимаю и использую принципы ООП
 
 ## Квалификация
 
 * Языки программирования: Java, SQL, XML/XSD/XSLT, JavaScript, HTML, CSS, PHP, VBA, Python, C/C++
-* Фреймворки: Spring (MVC, Data, JDBC, Security)
-* Технологии: Servlet, JSP/JSTL, JAX-WS, JAX-RS, JMS, JAXB, StAX, JPA, JDBC, SOAP
+* Фреймворки: Spring (MVC, AOP, Data, JDBC, Security)
+* Технологии: Servlet, gRPC, JSP/JSTL, JAX-WS, JAX-RS, JMS, JAXB, StAX, JPA, JDBC, SOAP
 * Системы управления версиями: Git
-* Базы данных: MySQL, PostgreSQL, HSQLDB
-* Инструменты: Maven, Hibernate, Jdbi, JUnit, SLF4J (Logback), Liquibase, Lombok, Typesafe Config
-* Серверы приложений: Tomcat
+* Базы данных: MySQL, PostgreSQL, HSQLDB, Apache Ignite, Oracle
+* Инструменты: Maven, Liquibase, Lombok
+* Тестирование: jUnit, AssertJ, Mochito, Cucumber
+* Библиотеки: Mapstruct, Drools, Jdbi, Hibernate
+* Серверы приложений: Tomcat, WildFly
+* DevOps: Bitbucket, Jenkins, Nexus, Ansible, Jira, Confluence,  SonarCube
 * Операционные системы: Linux (Ubuntu, Debian, Arch), Windows
 * Иностранные языки: английский (intermediate)
 
 ## Опыт
+
+### ООО «АЙФЭЛЛ», 09.2019 — настоящее время.
+
+Инженер по разработке программного обеспечения.
+Разработка сервиса для управления лимитами в банковской системе карточного процессинга:
+* обеспечение учета операций для расчета показателей риска;
+* расчет показателей риска и их предоставление взаимодействующим системам;
+* обеспечение возможности конфигурирования параметров расчета показателей риска  для соответсвия требованиям бизнеса;
+* интеграция сервиса с взаимодействующими системами при помощи gRPC, REST, Kafka;
+* выделение сервиса в отдельное приложение.
 
 ### Java Online Projects, 2019 г.
 
@@ -63,9 +76,9 @@ classes: wide
 
 ## Образование
 * **Masterjava** – практический курс разработки многомодульного проекта, 2019 г.  
-[сертификат](http://javaops.ru/certificate/masterjava?email=pchurzin@yandex.ru)
+[сертификат](https://javaops.ru/certificate/masterjava?email=pchurzin@yandex.ru)
 * **Topjava** – практический курс разработки Spring/JPA приложения, 2018 г.  
-[сертификат](http://javaops.ru/certificate/topjava?email=pchurzin@yandex.ru)
+[сертификат](https://javaops.ru/certificate/topjava?email=pchurzin@yandex.ru)
 * **JavaRush** – онлайн-курс программирования на Java, 2018 г.  
 [профиль](https://javarush.ru/users/1368282)
 * **Военно-космическая академия имени А.Ф. Можайского**, 1998 – 2003
