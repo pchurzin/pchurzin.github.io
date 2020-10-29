@@ -11,7 +11,7 @@ classes: wide
 
 ## О себе
 
-* имею более двух лет опыта программирования на Java
+* имею более трех лет опыта программирования для JVM(Java, Kotlin)
 * обладаю опытом работы со Spring Framework
 * имею опыт работы с технологиями Java EE
 * понимаю принципы работы и построения современных приложений
@@ -20,24 +20,29 @@ classes: wide
 
 ## Квалификация
 
-* Языки программирования: Java, SQL, XML/XSD/XSLT, JavaScript, HTML, CSS, PHP, VBA, Python, C/C++
-* Фреймворки: Spring (MVC, AOP, Data, JDBC, Security)
-* Технологии: Servlet, gRPC, JSP/JSTL, JAX-WS, JAX-RS, JMS, JAXB, StAX, JPA, JDBC, SOAP
+* Языки программирования: Java, Kotlin, SQL, XML/XSD/XSLT, JavaScript, HTML, CSS, PHP, VBA, Python, C/C++
+* Фреймворки: Spring (MVC, Security, Data, Integration, AOP, Data), Spring Boot
+* Технологии: Servlet, JPA, gRPC, Thymeleaf, JSP/JSTL, JAX-WS, JAX-RS, JMS, JAXB, StAX, JDBC, SOAP
 * Системы управления версиями: Git
-* Базы данных: MySQL, PostgreSQL, HSQLDB, Apache Ignite, Oracle
-* Инструменты: Maven, Liquibase, Lombok
-* Тестирование: jUnit, AssertJ, Mochito, Cucumber
+* Базы данных: PostgreSQL, MySQL, HSQLDB, Apache Ignite, Oracle
+* Инструменты: Gradle, Maven, Liquibase, Lombok
+* Тестирование: jUnit, AssertJ, Mockito, Cucumber
 * Библиотеки: Mapstruct, Drools, Jdbi, Hibernate
 * Серверы приложений: Tomcat, WildFly
-* DevOps: Bitbucket, Jenkins, Nexus, Ansible, Jira, Confluence,  SonarCube
+* DevOps: Bitbucket, Jenkins, Nexus, Ansible, Jira, Confluence, SonarCube
 * Операционные системы: Linux (Ubuntu, Debian, Arch), Windows
 * Иностранные языки: английский (intermediate)
 
 ## Опыт
 
-### ООО «АЙФЭЛЛ», 09.2019 — настоящее время.
+### ПАО «Сбербанк», 04.2020 — настоящее время.
+
+Ведущий инженер по разработке 
+
+### ООО «АЙФЭЛЛ», 09.2019 — 04.2020.
 
 Инженер по разработке программного обеспечения.
+
 Разработка сервиса для управления лимитами в банковской системе карточного процессинга:
 * обеспечение учета операций для расчета показателей риска;
 * расчет показателей риска и их предоставление взаимодействующим системам;
