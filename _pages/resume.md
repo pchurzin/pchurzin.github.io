@@ -7,7 +7,7 @@ classes: wide
 # Java разработчик
 {: .text-center}
 
-[//]: # (скачать резюме [pdf]&#40;/assets/files/pavel_churzin_javadev.pdf "скачать pdf"&#41; [rtf]&#40;/assets/files/pavel_churzin_javadev.rtf "скачать rtf"&#41;)
+<!-- скачать резюме [pdf](/assets/files/pavel_churzin_javadev.pdf "скачать pdf") [rtf](/assets/files/pavel_churzin_javadev.rtf "скачать rtf") -->
 
 ## О себе
 
